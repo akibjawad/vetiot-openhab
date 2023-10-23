@@ -1,0 +1,33 @@
+{
+  "vetiot": {
+    "class": "org.openhab.core.auth.ManagedUser",
+    "value": {
+      "name": "vetiot",
+      "passwordHash": "zVgyg3WgUuUMfGTZYcKthxZiSffo/KiDQgdCT+QchucFPslL9g92ewm+zxRv1gV/w9Zb59moKlp+E0PEgiHnOQ\u003d\u003d",
+      "passwordSalt": "P7mLuswLA+Uz40vWe0bVnupNOLzVuSfUxNoVBph0cBrCbDdgsPCYXfq/X8Da6OoNBPRKRx/nn82Mo2fvql0eSA\u003d\u003d",
+      "roles": [
+        "administrator"
+      ],
+      "sessions": [
+        {
+          "sessionId": "6b2a90f2-7c6d-4ab6-bcaf-15ecb1ed7cab",
+          "refreshToken": "d13925c920794c7c87d5bfef333ef3f7",
+          "createdTime": "Oct 21, 2023, 7:08:52 AM",
+          "lastRefreshTime": "Oct 21, 2023, 7:10:12 AM",
+          "clientId": "http://localhost:8080",
+          "redirectUri": "http://localhost:8080",
+          "scope": "admin",
+          "sessionCookie": true
+        }
+      ],
+      "apiTokens": [
+        {
+          "name": "vetiot",
+          "apiToken": "jd32LHbIlQ/fzGllQ8HJoTC3cU63LKFmQnrfL5re9gBLO10GDAO7S4JNs+Ng6+OhtDPTb69xJPW2p/jRIkid2Q\u003d\u003d:P+oxdRaEscWPcHjqFkV/fCGF/s34zhqEzdCgymW4JjEwy3XhYEN5xISVvZG2baJ1rfCgQ12bn83a/J5TYE0emA\u003d\u003d",
+          "createdTime": "Oct 21, 2023, 7:09:42 AM",
+          "scope": ""
+        }
+      ]
+    }
+  }
+}
